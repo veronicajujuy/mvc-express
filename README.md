@@ -14,3 +14,6 @@ Controller: the logic of our site, and the glue between models and views. Here w
 
 This repo contains a simple application of MVC pattern developed in Express Js, using the weather API, and de view engine hsb.
 
+![pantalla weather](https://user-images.githubusercontent.com/66653416/105927508-e316aa00-6022-11eb-856f-ec4f951b8e43.png)
+
+If you want to prove this code, just clone the repo!!
